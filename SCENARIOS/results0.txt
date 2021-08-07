@@ -1,0 +1,46 @@
+Analyst Name: 
+
+Analysis Date: 
+
+Project Description:
+
+Study Area
+Gadsden
+
+User Input
+
+Value of Travel Time
+62
+Project cost
+0
+Net Present Value (%)
+4
+Forecast Years
+2040
+County Base Scenario VHT
+7432
+County Built Scenario VHT
+7539
+Sector                                     Sector Output Impact ($)    Sector Employment Impact    Sector Income Impact ($)
+---------------------------------------  --------------------------  --------------------------  --------------------------
+11 Ag, Forestry, Fish & Hunting                             5607.31                        0.00                     1297.54
+21 Mining                                                   5607.31                        0.00                     1563.55
+22 Utilities                                               88579.57                        0.00                     6029.94
+23 Construction                                           134545.66                        1.00                    31971.67
+31-33 Manufacturing                                        82638.94                        0.00                    18772.50
+42 Wholesale Trade                                       1061771.99                        5.00                   292304.80
+44-45 Retail trade                                        204300.94                        3.00                    70578.66
+48-49 Transportation & Warehousing                       2241302.40                       29.00                   371135.19
+51 Information                                             38264.49                        0.00                     9336.15
+52 Finance & insurance                                    638765.73                        4.00                    79689.95
+53 Real estate & rental                                   958812.25                        2.00                    22806.61
+54 Professional- scientific & tech svcs                   162942.09                        2.00                    48849.03
+55 Management of companies                                179483.11                        1.00                    80357.48
+56 Administrative & waste services                        523489.11                        7.00                   160497.85
+61 Educational svcs                                          356.19                        0.00                      165.36
+62 Health & social services                                   15.31                        0.00                        6.39
+71 Arts- entertainment & recreation                         4410.90                        0.00                     1787.13
+72 Accommodation & food services                           46367.48                        1.00                    14083.85
+81 Other services                                          69964.82                        2.00                    33432.77
+92 Government & non NAICs                                 235297.05                        4.00                   193636.34
+Total                                                    6678225.36                       61.00                  1438302.76
